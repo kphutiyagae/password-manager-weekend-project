@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kphutiyagae/password-manager-weekend-project/issues"
   },
-  "homepage": "https://github.com/kphutiyagae/password-manager-weekend-project#readme"
+  "homepage": "https://github.com/kphutiyagae/password-manager-weekend-project#readme",
+  "dependencies": {
+    "fastify": "^5.12.8"
+  }
 }
